@@ -1,6 +1,6 @@
-package de.drunkenmasters.simple.test;
+package ${package}.test;
 
-import de.drunkenmasters.simple.SimpleEntity;
+import ${package}.SimpleEntity;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;

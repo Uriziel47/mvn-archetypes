@@ -6,7 +6,17 @@
 
     <groupId>de.drunkenmasters.archetypes</groupId>
     <artifactId>simple-java</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
+    <packaging>maven-archetype</packaging>
 
+    <build>
+        <extensions>
+            <extension>
+                <groupId>org.apache.maven.archetype</groupId>
+                <artifactId>archetype-packaging</artifactId>
+                <version>3.4.0</version>
+            </extension>
+        </extensions>
+    </build>
 
 </project>

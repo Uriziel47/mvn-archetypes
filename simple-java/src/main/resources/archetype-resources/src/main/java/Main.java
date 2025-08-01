@@ -1,4 +1,4 @@
-package de.drunkenmasters.simple;
+package ${package};
 
 public class Main {
 
